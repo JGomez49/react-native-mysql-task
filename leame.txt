@@ -1,0 +1,20 @@
+iniciar mysql: 
+    mysql.server start
+    mysql -u root -p
+    6A...0
+
+GitHub
+    New:
+        echo "# react-native-mysql-task" >> README.md
+        git init
+        git commit -m "first commit"
+        git branch -M main
+        git remote add origin https://github.com/JGomez49/react-native-mysql-task.git
+        git push -u origin main
+    Push:
+        git add .
+        git remote add origin https://github.com/JGomez49/react-native-mysql-task.git
+        git branch -M main
+        git push -u origin main
+
+
